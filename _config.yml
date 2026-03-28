@@ -1,0 +1,51 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+title: "Justyna Kowal"
+subtitle: "Psycholog"
+name: "Justyna Kowal"
+description: "Gabinet psychologiczny w Warszawie. Profesjonalna pomoc psychologiczna, terapia indywidualna i wsparcie w trudnych momentach życia."
+url: "" # zostanie uzupełnione po utworzeniu repozytorium
+baseurl: ""
+
+locale: "pl-PL"
+timezone: Europe/Warsaw
+
+skin: "dirt"
+
+# Autor
+author:
+  name: "Justyna Kowal"
+  bio: "Psycholog, specjalista w zakresie terapii indywidualnej."
+  location: "Warszawa, Polska"
+  email: "kontakt@placeholder.pl"
+  phone: "+48 000 000 000"
+
+# Nawigacja
+navigation:
+  - title: "O mnie"
+    url: "/#o-mnie"
+  - title: "Usługi"
+    url: "/#uslugi"
+  - title: "Lokalizacja"
+    url: "/#lokalizacja"
+  - title: "Kontakt"
+    url: "/#kontakt"
+
+# Stopka
+footer:
+  links: []
+
+# Wtyczki
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+# Ustawienia domyślne
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false

@@ -1,0 +1,9 @@
+main:
+  - title: "O mnie"
+    url: "/#o-mnie"
+  - title: "Usługi"
+    url: "/#uslugi"
+  - title: "Lokalizacja"
+    url: "/#lokalizacja"
+  - title: "Kontakt"
+    url: "/#kontakt"
