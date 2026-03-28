@@ -4,8 +4,8 @@ title: "Justyna Kowal"
 subtitle: "Psycholog"
 name: "Justyna Kowal"
 description: "Gabinet psychologiczny w Warszawie. Profesjonalna pomoc psychologiczna, terapia indywidualna i wsparcie w trudnych momentach życia."
-url: "" # zostanie uzupełnione po utworzeniu repozytorium
-baseurl: ""
+url: "https://dar-puch.github.io"
+baseurl: "/justyna-kowal-psycholog"
 
 locale: "pl-PL"
 timezone: Europe/Warsaw
