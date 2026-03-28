@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 400" preserveAspectRatio="xMidYMid slice">
+  <rect width="1440" height="400" fill="#c9a97a"/>
+  <!-- Wave layers -->
+  <path d="M0,200 C180,160 360,240 540,200 C720,160 900,240 1080,200 C1260,160 1350,220 1440,200 L1440,400 L0,400 Z" fill="#b8935e" opacity="0.5"/>
+  <path d="M0,250 C200,210 400,290 600,250 C800,210 1000,280 1200,250 C1320,230 1380,260 1440,250 L1440,400 L0,400 Z" fill="#a07848" opacity="0.4"/>
+  <path d="M0,300 C240,270 480,330 720,300 C960,270 1200,320 1440,300 L1440,400 L0,400 Z" fill="#8a6038" opacity="0.3"/>
+  <!-- Subtle circles -->
+  <circle cx="200" cy="100" r="120" fill="#d4b48a" opacity="0.2"/>
+  <circle cx="1200" cy="80" r="160" fill="#d4b48a" opacity="0.15"/>
+  <circle cx="720" cy="50" r="80" fill="#e8d0b0" opacity="0.1"/>
+</svg>
