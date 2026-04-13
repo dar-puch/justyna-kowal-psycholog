@@ -1,7 +1,7 @@
 main:
   - title: "O mnie"
     url: "/#o-mnie"
-  - title: "Usługi"
+  - title: "Oferta"
     url: "/#uslugi"
   - title: "Lokalizacja"
     url: "/#lokalizacja"
