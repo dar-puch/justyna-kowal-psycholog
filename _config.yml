@@ -22,10 +22,10 @@ author:
 
 # Nawigacja
 navigation:
-  - title: "O mnie"
-    url: "/#o-mnie"
   - title: "Usługi"
     url: "/#uslugi"
+  - title: "O mnie"
+    url: "/#o-mnie"
   - title: "Lokalizacja"
     url: "/#lokalizacja"
   - title: "Kontakt"
