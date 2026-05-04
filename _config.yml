@@ -35,6 +35,9 @@ navigation:
 footer:
   links: []
 
+atom_feed:
+  hide: true
+
 # Wtyczki
 plugins:
   - jekyll-remote-theme
