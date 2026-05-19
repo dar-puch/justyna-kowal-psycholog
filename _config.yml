@@ -15,17 +15,12 @@ skin: "dirt"
 # Autor
 author:
   name: "Justyna Kowal"
-  bio: "Psycholog, specjalista w zakresie terapii indywidualnej."
-  location: "Warszawa, Polska"
-  email: "kontakt@placeholder.pl"
-  phone: "+48 000 000 000"
-
 # Nawigacja
 navigation:
-  - title: "Usługi"
-    url: "/#oferta"
   - title: "O mnie"
     url: "/#o-mnie"
+  - title: "Oferta"
+    url: "/#oferta"
   - title: "Lokalizacja"
     url: "/#lokalizacja"
   - title: "Kontakt"
