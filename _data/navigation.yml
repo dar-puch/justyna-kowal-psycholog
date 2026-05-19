@@ -1,8 +1,8 @@
 main:
-  - title: "Oferta"
-    url: "/#oferta"
   - title: "O mnie"
     url: "/#o-mnie"
+  - title: "Oferta"
+    url: "/#oferta"
   - title: "Lokalizacja"
     url: "/#lokalizacja"
   - title: "Kontakt"
